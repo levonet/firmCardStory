@@ -4,10 +4,10 @@
     "editDate": "11-07-2013",
     "summary": "An example of a simple map service built using the BEM methodology.",
     "thumbnail": "",
-    "author": "Andrey Geonya",
+    "author": ["geonya-andrey"],
     "tags": ["BEM","API"],
-    "category": ["article"],
-    "translator": "Alexandra Nekhaieva",
+    "categories": ["article"],
+    "translator": ["nekhaieva-aleksandra"],
     "url": "/docs/article/",
     "type": "articles",
     "slug": ""

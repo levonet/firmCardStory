@@ -4,10 +4,10 @@
     "editDate": "11-07-2013",
     "summary": "Пример реализации несложного картографического сервиса по БЭМ-методологии",
     "thumbnail": "",
-    "author": "Андрей Геоня",
+    "author": ["geonya-andrey"],
     "tags": ["BEM","API"],
-    "category": ["article"],
-    "translator": "",
+    "categories": ["article"],
+    "translator": [""],
     "url": "/docs/article/",
     "type": "articles",
     "slug": ""
