@@ -305,7 +305,7 @@ Open `http://localhost:8080/desktop.bundles/index/index.html` in a browser, to s
 
 The application is ready to go. Now after every click on any building on the map, we get some brief information about the building (The `Company Card`).
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/6701/51437929.0/0_bfebe_dc260bee_S.jpg" alt="Andrey Geonya">
@@ -325,6 +325,6 @@ The application is ready to go. Now after every click on any building on the map
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
 
 Fork [this](https://github.com/AndreyGeonya/firmCardStory) project on GitHub.

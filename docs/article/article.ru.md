@@ -299,7 +299,7 @@
 
 Приложение готово к работе. Теперь при клике в каждое здание мы получим краткую информацию о нем.
 
-<!--(Begin) Article author block-->
+<!--(Begin) Article author block
 <div class="article-author">
     <div class="article-author__photo">
         <img class="article-author__pictures" src="http://img-fotki.yandex.ru/get/6701/51437929.0/0_bfebe_dc260bee_S.jpg" alt="Фотография Андрея Геоня">
@@ -319,7 +319,7 @@
         </div>
     </div>
 </div>
-<!--(End) Article author block-->
+(End) Article author block-->
 
 Код приложения доступен по адресу:
 [https://github.com/AndreyGeonya/firmCardStory](https://github.com/AndreyGeonya/firmCardStory)
