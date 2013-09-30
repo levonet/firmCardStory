@@ -6,7 +6,7 @@
     "thumbnail": "",
     "authors": ["geonya-andrey"],
     "tags": ["BEM","API"],
-    "categories": [],
+    "categories": [{"name": "BEM", "url": "bem"}],
     "translators": [""],
     "url": "/docs/article/",
     "type": "articles",
